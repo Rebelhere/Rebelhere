@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm REBEL</h1>
 <h3 align="center">A passionate CS student from Pakistan</h3>
-<img aling="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTJ5RzRIaW55LTZ3NmlnQzVjZHNGSFRLREhIUXxBQ3Jtc0trb2NrNDJFRm83UkptNUs5YXA5TU9rOUl6NzJqUjdQNGlabFJKZTB6VW1qRVdtdjBsTzVxa1VOaEItUHR5YXlNV0tXaWgwVW9qODI0TnVWdlljRHQtR2FPWk9UZUdra21OZUFWN3VEakVkRE9tVjRKVQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelhere&label=Profile%20views&color=0e75b6&style=flat" alt="rebelhere" /> </p>
 
 - 🌱 I’m currently learning **c++**
