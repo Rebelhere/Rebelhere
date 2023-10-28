@@ -1,3 +1,4 @@
+![logo](https://github.com/Rebelhere/Rebelhere/blob/main/WhatsApp%20Image%202023-10-28%20at%2016.15.56_075370dc.jpg)
 <h1 align="center">Hi 👋, I'm REBEL</h1>
 <h3 align="center">A passionate CS student from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
