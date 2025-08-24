@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **new programming languages**
 
-- 👨‍💻 To know more about me [https://rebelhere.github.io/muhammadrahim/](https://rebelhere.github.io/muhammadrahim/)
+- 👨‍💻 To know more about me [https://muhammadrahim.vercel.app/](https://muhammadrahim.vercel.app/))
 
 - 💬 Ask me about **anything new**
 
